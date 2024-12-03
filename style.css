@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right, #4CAF50, #2196F3);
+    background: linear-gradient(to right, #04dcf8, #0c595b);
 }
 
 .container {
@@ -61,10 +61,6 @@ body {
     display: none;
 }
 
-#weather-icon {
-    width: 100px;
-    height: 100px;
-}
 
 #temperature {
     font-size: 24px;
@@ -79,10 +75,10 @@ body {
 
 #wind-speed {
     font-size: 16px;
-    color: rgb(255, 0, 0);
+    color: #261d54;
 }
 
 #date {
     font-size: 14px;
-    color: rgb(255, 0, 0);
+    color: #261d54;
 }
